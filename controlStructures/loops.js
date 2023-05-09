@@ -11,7 +11,7 @@ for (i = 0; i <= array.length; i++) {
 }
 
 const myObj = {
-  name: "John",
+  name: "Alan",
   age: 30,
   city: "New York",
 };
