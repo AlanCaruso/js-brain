@@ -1,0 +1,12 @@
+{
+  "name": "js-brain",
+  "version": "1.0.0",
+  "description": "JS Brain is a repository of JavaScript references, code snippets, and examples for developers of all levels. Whether you're a beginner looking to learn the basics or an experienced developer seeking to expand your knowledge, this repository provides a comprehensive collection of resources to help you improve your JavaScript skills.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC"
+}
